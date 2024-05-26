@@ -1,1 +1,3 @@
-# Lab8-Starter
+# Lab8
+
+Patric Sanchez
